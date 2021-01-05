@@ -5,15 +5,15 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2021-01-05T06:44:41.959Z",
-    "end": "2021-01-05T06:44:42.034Z",
-    "duration": 75
+    "start": "2021-01-05T06:44:49.179Z",
+    "end": "2021-01-05T06:44:49.211Z",
+    "duration": 32
   },
   "tests": [
     {
       "title": "uses a default 'values' prop of an array with 10 items",
       "fullTitle": "<Matrix /> uses a default 'values' prop of an array with 10 items",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,7 +48,7 @@
     {
       "title": "state.color is initially set to the 'value' prop passed from Matrix",
       "fullTitle": "<Cell /> state.color is initially set to the 'value' prop passed from Matrix",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -69,7 +69,7 @@
     {
       "title": "sets the <div>'s inline style attribute to 'style={{backgroundColor: this.state.color}}'",
       "fullTitle": "<Cell /> sets the <div>'s inline style attribute to 'style={{backgroundColor: this.state.color}}'",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -80,7 +80,7 @@
     {
       "title": "uses a default 'values' prop of an array with 10 items",
       "fullTitle": "<Matrix /> uses a default 'values' prop of an array with 10 items",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -115,7 +115,7 @@
     {
       "title": "state.color is initially set to the 'value' prop passed from Matrix",
       "fullTitle": "<Cell /> state.color is initially set to the 'value' prop passed from Matrix",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -136,7 +136,7 @@
     {
       "title": "sets the <div>'s inline style attribute to 'style={{backgroundColor: this.state.color}}'",
       "fullTitle": "<Cell /> sets the <div>'s inline style attribute to 'style={{backgroundColor: this.state.color}}'",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
